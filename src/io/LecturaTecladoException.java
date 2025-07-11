@@ -4,7 +4,7 @@ public class LecturaTecladoException extends RuntimeException { //definir el tip
 		//queremos crear una excepcion 
 		//defir que sea ant cahs o cache 
 
-
+//pedimos los constructores del padre 
 	public LecturaTecladoException() {
 		super();
 		
